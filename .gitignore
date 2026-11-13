@@ -1,0 +1,7 @@
+# Datos de participantes: nunca subir a GitHub
+*.xlsx
+*.xls
+
+# Entorno virtual y caché de Python
+.venv/
+__pycache__/
